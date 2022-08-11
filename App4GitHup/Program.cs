@@ -7,6 +7,8 @@ namespace App4GitHup
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Abhishek");
+            Console.WriteLine("How are you?");
         }
     }
 }
