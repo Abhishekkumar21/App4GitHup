@@ -9,6 +9,7 @@ namespace App4GitHup
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Abhishek");
             Console.WriteLine("How are you?");
+            Console.WriteLine("Today is Thursday.");
         }
     }
 }
